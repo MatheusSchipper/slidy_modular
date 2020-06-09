@@ -1,6 +1,6 @@
 # slidy_modular
 
-A new Flutter project.
+Projeto inicial sem utilização do Slidy, conforme primeiros vídeos.
 
 ## Getting Started
 
