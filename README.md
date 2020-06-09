@@ -1,6 +1,7 @@
 # slidy_modular
 
 Projeto inicial sem utilização do Slidy, conforme primeiros vídeos.
+[Projeto com Slidy](https://github.com/MatheusSchipper/slidy_modular_aula_2)
 
 ## Getting Started
 
