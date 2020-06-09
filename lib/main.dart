@@ -5,4 +5,4 @@ import 'package:slidy_modular/app/app_module.dart';
 void main() => runApp(ModularApp(
       module: AppModule(),
     ));
-//runApp(MyApp());
+
